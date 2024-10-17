@@ -1,0 +1,12 @@
+// // // document.querySelector("h1").style.fontSize="80px"
+// // // window.alert("hello ahmed")
+// // console.log("hello from %cjs %cfile", "color:red ; font-size : 120px","color:blue ; font-size:30px" )
+// // color: blue;
+// // font-size: 80px;
+// // font-weight: bold;
+// // text-align: center;
+// // font-family: Arial
+// document.createElement("<h1>Elzero</h1>").style.color=("blue")
+// console.log("%cElzero" , "color:blue ; font-size:80px ; font-weight:bold ; text-align:center ; font-family:arial")
+document.write("<h1 style='color:blue;font-size:80px;font-weight:bold;text-align:center;font-family:arial;'>Elzero</h1>")
+
